@@ -4,3 +4,5 @@ node_modules
 npm-debug.log
 .model
 bankData/bank.csv
+*.pyc
+__pycache__
